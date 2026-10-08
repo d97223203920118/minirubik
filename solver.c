@@ -361,3 +361,4 @@ int main(int argc, char **argv)
     free(table);
     return output_failed();
 }
+// Assignment 1 optimization
